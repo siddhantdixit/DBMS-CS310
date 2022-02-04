@@ -1,11 +1,16 @@
 # DBMS Hackathon
 
 
-# Conceptual ER Diagram
+## Conceptual ER Diagram
 
 ![alt text](ConceptualSVG/ConceptualSwimmingPool.drawio.svg)
 
 
-# Physical ER Diagram
+## Physical ER Diagram
 
-![alt text](PhysicalER Diagram.pdf)
+![alt text](PhysicalERDiagram.png)
+
+
+### Submitted by
+#### Siddhant Dixit
+#### 20bcs123
